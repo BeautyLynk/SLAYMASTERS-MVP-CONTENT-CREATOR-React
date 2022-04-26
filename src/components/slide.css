@@ -1,0 +1,31 @@
+.slide-slide {
+  align-items: center;
+  justify-content: center;
+}
+.slide-image {
+  flex: 1;
+  width: 100%;
+  max-width: 650px;
+  object-fit: contain;
+}
+.slide-button {
+  color: #000000;
+  width: 452px;
+  text-transform: uppercase;
+  background-color: #e11fe2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
